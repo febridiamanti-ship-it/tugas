@@ -1,2 +1,2 @@
 # tugas
-Tugas pembuatan web sekolah (simulasi) 
+draft pengumpulan tugas
