@@ -1,2 +1,0 @@
-# tugas
-draft pengumpulan tugas
